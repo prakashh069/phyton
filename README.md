@@ -1,3 +1,2 @@
 # phyton
-basic code
- leaning step-by-step
+some basic codes to learn python in a proper manner
