@@ -1,3 +1,3 @@
 # phyton
-# basic code
-# leaning step-by-step
+basic code
+ leaning step-by-step
